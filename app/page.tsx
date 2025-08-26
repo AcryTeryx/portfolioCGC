@@ -65,7 +65,7 @@ export default function Portfolio() {
               </div>
               <div className="flex items-center gap-2">
                 <Calendar className="h-4 w-4" />
-                <span>23 mai - 16 juin 2024 (25 jours)</span>
+                <span>23 mai - 16 juin 2025 (25 jours)</span>
               </div>
             </div>
           </div>
@@ -139,7 +139,7 @@ export default function Portfolio() {
           <p className="text-slate-600 leading-relaxed mb-4">
             Je suis Thomas Laucournet, étudiant en 2ème année de Bachelor Informatique chez Ynov Campus, qui poursuit en
             3ème année Dev. Ce portfolio présente de manière détaillée mon expérience de stage chez Cyber Guardians
-            Challenge (du 23 mai au 16 juin 2024), une association spécialisée dans la création de CTF cybersécurité.
+            Challenge (du 23 mai au 16 juin 2025), une association spécialisée dans la création de CTF cybersécurité.
           </p>
           <p className="text-slate-600 leading-relaxed">
             Durant ces 25 jours (5 heures par jour), j'ai conçu les épreuves CTF pour leur événement annuel, une
@@ -178,7 +178,7 @@ export default function Portfolio() {
                 </div>
                 <div>
                   <h4 className="font-semibold text-slate-700">Durée du stage</h4>
-                  <p className="text-slate-600">25 jours (5h/jour) - Du 23 mai au 16 juin 2024 (125 heures total)</p>
+                  <p className="text-slate-600">25 jours (5h/jour) - Du 23 mai au 16 juin 2025 (125 heures total)</p>
                 </div>
               </CardContent>
             </Card>
@@ -233,7 +233,7 @@ export default function Portfolio() {
             <CardContent>
               <p className="text-slate-600 leading-relaxed">
                 En tant que concepteur d'épreuves CTF, j'ai été intégré à l'équipe technique pour créer et développer
-                les différents défis de l'événement annuel "Summer CTF Challenge 2024". Mon rôle consistait à concevoir
+                les différents défis de l'événement annuel "Summer CTF Challenge 2025". Mon rôle consistait à concevoir
                 des challenges variés couvrant les domaines de la cryptographie, de la sécurité web, du reverse
                 engineering et de la stéganographie, tout en respectant une progression pédagogique adaptée aux
                 différents niveaux des participants.
@@ -677,7 +677,7 @@ export default function Portfolio() {
             <span className="text-lg font-semibold">Portfolio de Stage - Laucournet Thomas</span>
           </div>
           <p className="text-slate-400">Rapport d'activité professionnelle - Bachelor 2 Cybersécurité</p>
-          <p className="text-slate-500 text-sm mt-2">Ynov Campus - Rendu le 25 août 2024</p>
+          <p className="text-slate-500 text-sm mt-2">Ynov Campus - Rendu le 25 août 2025</p>
           <div className="mt-4 pt-4 border-t border-slate-700"></div>
         </div>
       </footer>
